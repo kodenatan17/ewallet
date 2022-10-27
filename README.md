@@ -1,16 +1,41 @@
-# ewallet
 
-A new Flutter project.
+# Wallet App
 
-## Getting Started
+Aplikasi e-Wallet, melayani beberapa transaksi berbasis Android dan IOS, dengan Midtrans sebagai payment gateway
+## Features
 
-This project is a starting point for a Flutter application.
+- Midtrans API
+- Transfer All Bank
+- Topup Data dan PLN
+- Membership Program
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter Clean
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  flutter clean
+```
+
+Flutter Get all dependecies
+
+```bash
+  flutter pub get
+```
+
+Flutter Run
+
+```bash
+  flutter run
+```
+## Mockup design
+
+![Logo](https://imagizer.imageshack.com/img923/3514/USOBes.png)
+
+
+## Authors
+
+- [@kodenatan17](https://www.github.com/kodenatan17)
+![Logo](https://imagizer.imageshack.com/img922/2944/DmEXU8.png)
+
+Copyright Ferry Natan Wibisono 2022. All Rights Reserved
